@@ -203,20 +203,7 @@ PSNR and SSIM are computed on the Y channel in YCbCr space. Recognition accuracy
 
 ---
 
-## Citation
 
-If you use this code or dataset, please cite:
-
-```bibtex
-@article{greeshma2026orientation,
-  title={Orientation and Disparity Aware Scene Text Super-Resolution with Triplet Convolution and Specialized Malayalam Text Attention},
-  author={Greeshma, M. S. and Bindu, V. R. and Sabu, M. K.},
-  journal={The Visual Computer},
-  year={2026},
-  publisher={Springer},
-  note={Under review}
-}
-```
 
 ---
 
